@@ -1,0 +1,191 @@
+## Deliverable #1: Keyword List Grouped by Ad Groups (allbirds)
+
+Based on brand website content, competitor insights, and simulated keyword data with specific location targeting.
+
+### Ad Group: Brand Terms
+--------------------------------
+ - Keyword: high-intent seed keywords based on the provided content from Allbirds and Rothy's
+   - Suggested Match Type: Exact
+   - Suggested CPC Range: $0.45 - $3.92
+   - Monthly Searches: 4490
+   - Competition: Medium
+
+ - Keyword: and location-specific keywords:
+
+Allbirds
+   - Suggested Match Type: Exact
+   - Suggested CPC Range: $1.21 - $4.98
+   - Monthly Searches: 2054
+   - Competition: Medium
+
+ - Keyword: Allbirds Tree Dasher
+   - Suggested Match Type: Exact
+   - Suggested CPC Range: $0.39 - $4.79
+   - Monthly Searches: 2065
+   - Competition: Medium
+
+ - Keyword: Allbirds store New York
+   - Suggested Match Type: Exact
+   - Suggested CPC Range: $0.97 - $2.01
+   - Monthly Searches: 4350
+   - Competition: Medium
+
+
+### Ad Group: Product/Service Category
+--------------------------------
+ - Keyword: sustainable shoes
+   - Suggested Match Type: Phrase
+   - Suggested CPC Range: $2.63 - $3.73
+   - Monthly Searches: 40727
+   - Competition: High
+
+ - Keyword: washable shoes
+   - Suggested Match Type: Phrase
+   - Suggested CPC Range: $0.74 - $4.54
+   - Monthly Searches: 27138
+   - Competition: High
+
+ - Keyword: comfortable sneakers
+   - Suggested Match Type: Phrase
+   - Suggested CPC Range: $0.7 - $8.49
+   - Monthly Searches: 18005
+   - Competition: High
+
+ - Keyword: women's flats
+   - Suggested Match Type: Phrase
+   - Suggested CPC Range: $2.13 - $7.96
+   - Monthly Searches: 12770
+   - Competition: High
+
+ - Keyword: men's sneakers
+   - Suggested Match Type: Phrase
+   - Suggested CPC Range: $1.49 - $5.27
+   - Monthly Searches: 5695
+   - Competition: High
+
+ - Keyword: wool running shoes
+   - Suggested Match Type: Phrase
+   - Suggested CPC Range: $1.03 - $4.88
+   - Monthly Searches: 2335
+   - Competition: Medium
+
+
+### Ad Group: Long-Tail / Informational
+--------------------------------
+ - Keyword: Here are 14 highly relevant
+   - Suggested Match Type: Broad
+   - Suggested CPC Range: $1.27 - $4.47
+   - Monthly Searches: 3935
+   - Competition: Medium
+
+ - Keyword: including brand terms
+   - Suggested Match Type: Broad
+   - Suggested CPC Range: $1.41 - $3.5
+   - Monthly Searches: 592
+   - Competition: Medium
+
+ - Keyword: competitor terms
+   - Suggested Match Type: Broad
+   - Suggested CPC Range: $0.91 - $6.06
+   - Monthly Searches: 68422
+   - Competition: Medium
+
+ - Keyword: Rothy's
+   - Suggested Match Type: Broad
+   - Suggested CPC Range: $2.22 - $4.51
+   - Monthly Searches: 77039
+   - Competition: High
+
+ - Keyword: Rothy's The Point
+   - Suggested Match Type: Broad
+   - Suggested CPC Range: $0.32 - $4.02
+   - Monthly Searches: 2114
+   - Competition: Medium
+
+ - Keyword: recycled material bags
+   - Suggested Match Type: Broad
+   - Suggested CPC Range: $0.96 - $3.06
+   - Monthly Searches: 1858
+   - Competition: Low
+
+
+### Ad Group: Location-Based Queries
+--------------------------------
+ - Keyword: Rothy's store London
+   - Suggested Match Type: Phrase
+   - Suggested CPC Range: $1.41 - $3.21
+   - Monthly Searches: 3500
+   - Competition: Medium
+
+
+
+## Deliverable #2: Search Themes for Performance Max Campaign (allbirds)
+
+These themes are derived from high-performing keyword categories and ad groups, guiding the creation of asset groups for optimal PMax campaign performance.
+
+### Product/Service Category Themes:
+
+- **Core Offerings:** Focus on the primary products/services.
+    - Examples: "sustainable shoes", "washable shoes"
+- **Specific Product/Service Lines:** Break down into more granular offerings.
+    - Examples: "Sustainable Sneakers", "AI Marketing Automation"
+
+### Use-Case Based Themes:
+
+- **Problem/Solution Focused:** Address specific customer needs.
+    - Examples: "Here are 14 highly relevant", "including brand terms"
+- **Value Proposition:** Highlight key benefits.
+    - Examples: "eco-friendly footwear", "AI-driven growth"
+
+### Competitive Themes:
+
+- No specific competitor themes identified based on current keywords.
+### Location-Based Themes:
+
+- **Geographic Targeting:** Focus on specific service areas or store locations.
+    - Examples: "Rothy's store London"
+
+
+
+## Deliverable #3: Suggested CPC Bids for Manual Shopping Campaign
+
+### Methodology & Calculations:
+- **Simulated Average Order Value (AOV):** $150
+- **Target CPA (20% of AOV):** $30.00
+- **Target Conversion Rate:** 2%
+- **Calculated Target CPC:** $0.60 (This is our maximum profitable bid per click)
+
+### Suggested CPC Bid Strategy for Manual Shopping Campaign:
+
+- **Product Keyword:** "sustainable shoes"
+  - **Monthly Searches:** 40727
+  - **Competition:** High
+  - **Top of Page Bid Range:** $2.63 - $3.73
+  - **Suggested Manual Bid:** $2.10
+
+- **Product Keyword:** "washable shoes"
+  - **Monthly Searches:** 27138
+  - **Competition:** High
+  - **Top of Page Bid Range:** $0.74 - $4.54
+  - **Suggested Manual Bid:** $0.72
+
+- **Product Keyword:** "comfortable sneakers"
+  - **Monthly Searches:** 18005
+  - **Competition:** High
+  - **Top of Page Bid Range:** $0.7 - $8.49
+  - **Suggested Manual Bid:** $0.72
+
+- **Product Keyword:** "women's flats"
+  - **Monthly Searches:** 12770
+  - **Competition:** High
+  - **Top of Page Bid Range:** $2.13 - $7.96
+  - **Suggested Manual Bid:** $1.70
+
+- **Product Keyword:** "men's sneakers"
+  - **Monthly Searches:** 5695
+  - **Competition:** High
+  - **Top of Page Bid Range:** $1.49 - $5.27
+  - **Suggested Manual Bid:** $1.19
+
+*Note: Bids are suggestions and should be continuously optimized based on live campaign performance and ROAS goals.*
+

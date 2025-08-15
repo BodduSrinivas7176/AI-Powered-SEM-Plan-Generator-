@@ -1,0 +1,12 @@
+brand_website: "https://www.allbirds.com"
+competitor_website: "https://www.rothys.com"
+service_locations:
+  - New York, NY
+  - Los Angeles, CA
+  - London, UK
+  - Berlin, Germany
+  - Sydney, Australia
+ad_budgets:
+  shopping_ads: 4000
+  search_ads: 5000
+  pmax_ads: 2500
